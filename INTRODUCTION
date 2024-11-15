@@ -1,0 +1,23 @@
+Project Name: Bank Loan Analysis for Customers
+Domain: Finance
+Tools Used: Excel, Power BI, Tableau, MySQL
+
+Final Project Submission Overview:
+
+Methodology:
+The research involved conducting a quantitative analysis of data obtained from EXCELR, focusing on key performance indicators (KPIs) to identify trends and insights from a dataset consisting of 39,717 bank customers. The analysis aims to assess the impact of various factors such as verification status, interest rates, and payment modes on loan behavior, providing valuable, data-driven insights and actionable recommendations for stakeholders in the financial industry.
+
+Project Overview:
+The dataset includes details about 39,717 bank customers, and the analysis focuses on using various KPIs to evaluate customer behavior. The project explores verified vs. non-verified customers by year, interest rates, and the influence of payment modes on loan performance.
+
+Key Performance Indicators (KPIs):
+Year-wise Loan Amount Statistics
+Grade and Sub-grade wise Revolving Balance
+Total Payments: Verified vs. Non-verified Status
+State-wise and Month-wise Loan Status
+Home Ownership vs. Last Payment Date Statistics
+Key Insights:
+Loan Amount Trends: The loan amounts have steadily increased year-over-year, indicating a growing demand for credit. This suggests that borrowers are increasingly seeking financing for diverse needs.
+Charged-Off Loans: The "Charged Off" category highlights a significant number of loans that were declared as losses, reflecting potential risks in the lending process.
+Verification's Impact: The data reveals that verification status plays a crucial role in driving higher payment volumes, which can enhance trust and security in financial transactions.
+Last Payment Date Analysis: Evaluating the last payment date provides insight into payment timeliness, helping to identify repayment patterns across different homeownership categories.
